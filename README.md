@@ -1,4 +1,4 @@
-# Machine Learning Lab Component
+# Machine Learning Lab 
 
 A curated collection of Machine Learning experiments and implementations developed using Python. This repository covers fundamental concepts in supervised learning, unsupervised learning, data preprocessing, model evaluation, ensemble methods, and neural networks.
 
